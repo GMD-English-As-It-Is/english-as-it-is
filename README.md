@@ -25,13 +25,15 @@ Free, self-paced ESL wordlist lessons. Learn by doing, like freeCodeCamp for Eng
 
 - Wordlist: [lessons/01-body/wordlist.md](lessons/01-body/wordlist.md)
 - Interactive workbook: https://muse.ai/s/body-lesson-1-workbook-an6xixrx08mxhe4/Re3xdfT2mcEsJ_xmYCXiUlQWa-5crgI6H1_HupHBftE
+- Audio: [lessons/01-body/audio/](lessons/01-body/audio/) — 49 recorded clips, one per word and question. Tap the speaker in the workbook to hear them.
 
 ## Lesson 2 — Clothes
 
 30 clothes words, describing words, colors, this/that/these/those, to-be questions, possessives, and Whose?
 
 - Wordlist: [lessons/02-clothes/wordlist.md](lessons/02-clothes/wordlist.md)
-- Interactive workbook: coming soon
+- Interactive workbook: https://muse.ai/s/clothes-lesson-2-workbook-sf6xjgxlxpxfm2xw/EPp8vrZYefornaot9EgbtVP67L8I-ZMfnrXus0L-AQ0
+- Audio: [lessons/02-clothes/audio/](lessons/02-clothes/audio/) — 64 recorded clips, one per word and question. Tap the speaker in the workbook to hear them.
 
 ## Lesson 3 — Food
 
@@ -59,8 +61,10 @@ english-as-it-is/
   lessons/
     01-body/
       wordlist.md
+      audio/         # 49 recorded MP3 clips
     02-clothes/
       wordlist.md
+      audio/         # 64 recorded MP3 clips
     03-food/
       wordlist.md
     04-world/
