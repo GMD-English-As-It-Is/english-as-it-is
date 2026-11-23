@@ -2,6 +2,8 @@
 
 Free, self-paced ESL wordlist lessons. Learn by doing, like freeCodeCamp for English.
 
+This project is named for my daughters, Galilea and Maria Jose — Galimari Digital. Aprender • Crear • Crecer.
+
 ## How it works
 
 - Free, self-paced, and learn by doing. No long lectures.
