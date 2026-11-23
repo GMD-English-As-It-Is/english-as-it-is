@@ -9,6 +9,12 @@ Free, self-paced ESL wordlist lessons. Learn by doing, like freeCodeCamp for Eng
 - Short challenges, instant feedback, and repetition to make the words stick.
 - Work through the lessons in order. No electives, no guesswork.
 
+## Support this project
+
+English as it is is free for every student, and it always will be. If it helped you learn, a donation of any kind helps keep it free and growing — but it is never required.
+
+- Sponsor on GitHub: https://github.com/sponsors/GMD-English-As-It-Is
+
 ## Lessons
 
 | Lesson | Topic | Wordlist |
