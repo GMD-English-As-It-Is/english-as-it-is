@@ -48,18 +48,21 @@ English as it is is free for every student, and it always will be. If it helped 
 Food words, a/an and some, on/off, present tense to be, and How much?
 
 - Wordlist: [lessons/03-food/wordlist.md](lessons/03-food/wordlist.md)
+- Audio: [lessons/03-food/audio/](lessons/03-food/audio/) — 55 recorded clips, one per word and question.
 
 ## Lesson 4 — World
 
 The world, the, in/out of, only, to/from, between, past tense to be, much/many, where?, and What time is it?
 
 - Wordlist: [lessons/04-world/wordlist.md](lessons/04-world/wordlist.md)
+- Audio: [lessons/04-world/audio/](lessons/04-world/audio/) — 46 recorded clips, one per word and question.
 
 ## Lesson 5 — School
 
 School words, about/with/without/for/at, prepositions, future tense to be, who/when/how/why/because, there is/are, how many/how much, and some/any.
 
 - Wordlist: [lessons/05-school/wordlist.md](lessons/05-school/wordlist.md)
+- Audio: [lessons/05-school/audio/](lessons/05-school/audio/) — 55 recorded clips, one per word and question.
 
 ## Structure
 
@@ -75,10 +78,13 @@ english-as-it-is/
       audio/         # 64 recorded MP3 clips
     03-food/
       wordlist.md
+      audio/         # 55 recorded MP3 clips
     04-world/
       wordlist.md
+      audio/         # 46 recorded MP3 clips
     05-school/
       wordlist.md
+      audio/         # 55 recorded MP3 clips
 ```
 
 Each lesson folder will later also hold its interactive workbook.
