@@ -17,6 +17,18 @@ English as it is is free for every student, and it always will be. If it helped 
 
 - Sponsor on GitHub: https://github.com/sponsors/GMD-English-As-It-Is
 
+## Become a member
+
+Everything free stays free, forever. Membership adds live teaching and extras on top — it never locks the lessons, audio, or workbooks.
+
+- Supporter — 100 MXN/month (about $5 USD)
+- Conversation Club — 200 MXN/month (about $10 USD), with a weekly live group conversation class
+- 1-on-1 Learner — 500 MXN/month (about $25 USD), with a private lesson every month
+
+Prices are in Mexican pesos for learners in Mexico. Outside Mexico, pay the equivalent in your currency.
+
+See [MEMBERSHIP.md](MEMBERSHIP.md) for everything included, or join on Ko-fi: https://ko-fi.com/gmdenglishasitis
+
 ## Lessons
 
 | Lesson | Topic | Wordlist |
@@ -69,6 +81,7 @@ School words, about/with/without/for/at, prepositions, future tense to be, who/w
 ```
 english-as-it-is/
   README.md
+  MEMBERSHIP.md
   lessons/
     01-body/
       wordlist.md
