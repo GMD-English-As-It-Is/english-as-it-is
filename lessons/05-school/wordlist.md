@@ -1,3 +1,5 @@
+![English as it is — by Galimari Digital](../../assets/banner.webp)
+
 # ESL Lesson 5 — SCHOOL
 
 ## Word list

@@ -1,3 +1,5 @@
+![English as it is — by Galimari Digital](../../assets/banner.webp)
+
 # ESL Lesson 4 — WORLD
 
 ## Word list
