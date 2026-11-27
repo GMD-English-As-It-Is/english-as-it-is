@@ -86,6 +86,7 @@ english-as-it-is/
   MEMBERSHIP.md
   LICENSE.md
   CODE_OF_CONDUCT.md
+  HISTORY.md
   lessons/
     01-body/
       wordlist.md
@@ -105,6 +106,16 @@ english-as-it-is/
 ```
 
 Each lesson folder will later also hold its interactive workbook.
+
+## How this project started
+
+Manny started with one ESL class idea in November 2026, and built
+it with Muse into a free, public learning site — 5 lessons from
+Lane's Book 1, interactive workbooks, recorded audio, and a paid
+members area on top that never locks the free lessons.
+
+See [HISTORY.md](HISTORY.md) for the full log of how we built it
+together.
 
 ## License and credit
 
