@@ -84,6 +84,8 @@ School words, about/with/without/for/at, prepositions, future tense to be, who/w
 english-as-it-is/
   README.md
   MEMBERSHIP.md
+  LICENSE.md
+  CODE_OF_CONDUCT.md
   lessons/
     01-body/
       wordlist.md
@@ -104,4 +106,19 @@ english-as-it-is/
 
 Each lesson folder will later also hold its interactive workbook.
 
-Source: Lane's English as a Second Language, Book 1, by Richard R. Lane, Ph.D.
+## License and credit
+
+Learning content in this project is licensed under CC BY 4.0, and
+code is licensed under the MIT License. See [LICENSE.md](LICENSE.md)
+for the full terms.
+
+Source: Lane's English as a Second Language, Book 1, by Richard R.
+Lane, Ph.D. — given freely to all students and teachers, and not to
+be changed without written permission. Please credit Dr. Lane for
+that source.
+
+## Code of Conduct
+
+This is a kind, respectful place to learn English, especially for
+learners who are not native speakers. Mistakes are welcome here.
+See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
