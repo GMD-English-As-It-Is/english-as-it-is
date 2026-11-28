@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lesson 3 — Food
+nav_order: 4
+---
 ![English as it is — by Galimari Digital](../../assets/banner.webp)
 
 # ESL Lesson 3 — FOOD

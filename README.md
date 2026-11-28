@@ -1,3 +1,8 @@
+---
+layout: home
+title: English as it is
+nav_order: 1
+---
 ![English as it is — by Galimari Digital](assets/banner.webp)
 
 # English as it is

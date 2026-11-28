@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lesson 1 — Body
+nav_order: 2
+---
 ![English as it is — by Galimari Digital](../../assets/banner.webp)
 
 # ESL Lesson 1 — BODY

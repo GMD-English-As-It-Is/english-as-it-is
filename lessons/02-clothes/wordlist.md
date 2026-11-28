@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lesson 2 — Clothes
+nav_order: 3
+---
 ![English as it is — by Galimari Digital](../../assets/banner.webp)
 
 # ESL Lesson 2 — CLOTHES

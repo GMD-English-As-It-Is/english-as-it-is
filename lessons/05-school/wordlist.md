@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lesson 5 — School
+nav_order: 6
+---
 ![English as it is — by Galimari Digital](../../assets/banner.webp)
 
 # ESL Lesson 5 — SCHOOL
