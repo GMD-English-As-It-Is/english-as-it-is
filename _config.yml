@@ -1,0 +1,6 @@
+# _config.yml — the whole change
+title: English as it is
+description: Free English lessons with audio and workbooks — Aprender • Crear • Crecer
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
