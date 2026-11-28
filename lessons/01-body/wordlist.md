@@ -195,3 +195,11 @@ The interactive version of this lesson — with picture flashcards, tap-to-liste
 https://muse.ai/s/body-lesson-1-workbook-an6xixrx08mxhe4/Re3xdfT2mcEsJ_xmYCXiUlQWa-5crgI6H1_HupHBftE
 
 Source: Lesson 1 — BODY, 6-page PDF supplied by the teacher (`split_lesson1-Body_1_hutr.pdf`).
+
+## Quick quiz — try it here
+
+Tap an answer. You get your score right away. For the full workbook with pictures and audio, see the link at the top of this lesson.
+
+<div class="lesson-quiz" data-questions='[{"q": "___ arm.", "options": ["a", "an"], "answer": 1, "why": "an before a vowel sound.", "audio": "audio/arm.mp3"}, {"q": "___ leg.", "options": ["a", "an"], "answer": 0, "why": "a before a consonant sound.", "audio": "audio/leg.mp3"}, {"q": "___ is a nose.", "options": ["This", "These"], "answer": 0, "why": "One nose: This is."}, {"q": "___ are eyes.", "options": ["This", "These"], "answer": 1, "why": "More than one: These are."}, {"q": "One foot, two ___.", "options": ["foots", "feet", "foot"], "answer": 1, "why": "foot -> feet."}, {"q": "One tooth, two ___.", "options": ["tooths", "teeth", "tooth"], "answer": 1, "why": "tooth -> teeth."}, {"q": "Lips: the plural sound is [S] or [Z]?", "options": ["[S]", "[Z]"], "answer": 0, "why": "lips ends in [S], voiceless."}, {"q": "Ears: the plural sound is [S] or [Z]?", "options": ["[S]", "[Z]"], "answer": 1, "why": "ears ends in [Z], voiced."}, {"q": "This is a cheek. These are ___.", "options": ["cheek", "cheeks", "cheekes"], "answer": 1, "why": "cheek -> cheeks."}, {"q": "___ ear.", "options": ["a", "an"], "answer": 1, "why": "an before a vowel sound.", "audio": "audio/ear.mp3"}]'></div>
+
+<script src="../../assets/quiz.js"></script>
