@@ -2,6 +2,7 @@
 layout: home
 title: English as it is
 nav_order: 1
+permalink: /
 ---
 ![English as it is — by Galimari Digital](assets/banner.webp)
 
